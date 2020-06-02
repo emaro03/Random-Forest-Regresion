@@ -1,4 +1,4 @@
-La finalidad del proyecto en cuestión es implementar un modelo de "Random Forest Regression" para predecir que tipo de flor es segun las medidas de los pétalo y sépalo.
+La finalidad del proyecto en cuestión es implementar un modelo de "Random Forest Regression" para predecir el valor de venta de las casas situadas en Boston.
 
 ### Etapas del proyecto
 1. Análisis exploratorio;
